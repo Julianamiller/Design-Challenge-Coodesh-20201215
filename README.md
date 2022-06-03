@@ -17,3 +17,14 @@ Para Navegar nos protótipos entre na página Protótipos e clique no botão do 
 Link do projeto: https://www.figma.com/file/y0YienbJsDcmgelHMXvIRX/Design-Challenge-Coodesh-20201215?node-id=124%3A4641
 
 Link da apresentação do projeto: https://www.loom.com/embed/153a4bccbc5d42dc91591ef698cea9a2
+
+---------
+Sobre o Desafio:
+
+Desafio / Case
+A empresa Trevo Digital atua com diversos clientes a nível global em mais de 15 países, uma das principais características da empresa é o forte posicionamento no setor digital com uma equipe focada na geração de leads de qualidade.
+Por isso, todos os projetos devem ser muito bem estruturados pensando em SEO, fluidez e reuso (componentes reutilizados em vários projetos).
+O seu objetivo é criar um projeto que dê atenção aos requisitos anteriormente mencionados.
+
+
+
